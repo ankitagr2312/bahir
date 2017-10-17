@@ -62,4 +62,4 @@ Scaladocs is generated in, `MODULE_NAME/target/site/scaladocs/index.html`.  __ W
 
 ## A note about Apache Spark integration
 
-Currently, each module in Bahir is available through spark packages. Please follow linking sub section in module specific [README.md](#documentation) for more details.
+Currently, each module in Bahir is available through spark packages. Please follow linking sub section in module specific [README.md](#documentation) for more details
